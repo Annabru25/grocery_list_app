@@ -1,1 +1,3 @@
 tomato
+lettuce
+apples
